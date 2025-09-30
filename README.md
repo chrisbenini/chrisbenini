@@ -7,7 +7,7 @@ Aqui você encontra scripts para verificação de EAN, alertas e cálculo de mar
 
 - 🚀 Foco: automação, limpeza/validação de dados, rotinas para varejo  
 - 💼 Aberto a colabs e freelas rápidos  
-- 🌐 Fale comigo: [LinkedIn](#) · [Email](mailto:seuemail@exemplo.com)
+- 🌐 Fale comigo: [LinkedIn](#) · [Email](mailto:chrisbenini13@gmail.com)
 
 ## 🔝 Projetos em destaque
 - [Meus-projetos](https://github.com/chrisbenini/Meus-projetos) — coleção de utilitários em Python
