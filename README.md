@@ -62,6 +62,7 @@ Coleção de utilitários em Python usados no dia a dia do varejo:
 
 - [Dio-graph](https://github.com/chrisbenini/Dio-graph) – Modelagem de grafo de conhecimento usando **Neo4j** e **Cypher**.  
 - [musica-recomendada](https://github.com/chrisbenini/musica_recomendada) – Sistema de recomendação de músicas (estudo de grafos e recomendação).
+- [rede-social-grafos](https://github.com/chrisbenini/rede-social-grafos) – Banco de dados em grafos para uma rede social, usando **Neo4j** e **Cypher**, modelando usuários, posts, comentários, hashtags, grupos e engajamento.
 
 ---
 
