@@ -67,10 +67,8 @@ Coleção de utilitários em Python usados no dia a dia do varejo:
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chrisbenini&show_icons=true&theme=dracula&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbenini&layout=compact&theme=dracula" />
-</p>
+Estou sempre estudando e subindo projetos relacionados a automação, análise de dados e experimentos com grafos.
+
 
 ---
 
