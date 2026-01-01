@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Chris 👋</h1>
+  <h1 align="center">Oi, eu sou o Chris 👋</h1>
 
 <p align="center">
   Desenvolvedor Python focado em automação para varejo e análise de dados.
@@ -34,18 +34,35 @@ No dia a dia, foco em código **claro, testado e fácil de reaproveitar**.
 
 **Linguagens & Ferramentas**
 
-- 🐍 Python (pandas, numpy)
+- 🐍 Python (pandas, numpy, requests)
 - 🗄️ SQL / SQL Server (pyodbc)
+- 🌐 Integração com APIs (REST)
 - 📊 Excel automation (openpyxl, xlsxwriter)
 - 🖥️ Tkinter / CustomTkinter (GUI)
-- 🧠 Neo4j / Cypher (projetos de aprendizado)
+- ⚙️ Automação headless / background
+- 🧠 Neo4j / Cypher (grafos e modelagem)
+- 📦 PyInstaller (geração de executáveis `.exe`)
 - 🧾 Git & GitHub
 
 ---
 
 ## 🚀 Projetos em destaque
 
+### 🔹 [extraction_tiny](https://github.com/chrisbenini/extraction_tiny)
+
+Aplicação em Python para **extração automatizada de produtos do Tiny ERP**.
+
+- Interface Desktop (GUI) para usuário final
+- Modo **headless** para servidores e execuções agendadas
+- Geração automática de base em **Excel**
+- Possibilidade de empacotamento em `.exe`
+
+👉 Projeto com foco em **automação real de processos corporativos**.
+
+---
+
 ### 🔹 [Meus-projetos](https://github.com/chrisbenini/Meus-projetos)
+
 
 Coleção de utilitários em Python usados no dia a dia do varejo:
 
@@ -69,7 +86,6 @@ Coleção de utilitários em Python usados no dia a dia do varejo:
 ## 📊 Estatísticas
 
 Estou sempre estudando e subindo projetos relacionados a automação, análise de dados e experimentos com grafos.
-
 
 ---
 
