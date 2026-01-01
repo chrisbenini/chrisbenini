@@ -91,7 +91,7 @@ Estou sempre estudando e subindo projetos relacionados a automação, análise d
 
 ## 📬 Contato
 
-- 📧 E-mail: **chrisbenini18@gmail.com**  
+- 📧 E-mail: **chrisferruge18@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/christopher-benini-081b7833a/
 
 Se quiser trocar ideia sobre automação para varejo, análise de dados ou Python em geral, é só chamar. 😉
