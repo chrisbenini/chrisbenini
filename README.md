@@ -48,7 +48,7 @@ No dia a dia, foco em código **claro, testado e fácil de reaproveitar**.
 
 ## 🚀 Projetos em destaque
 
-### 🔹 [extraction_tiny](https://github.com/chrisbenini/extraction_tiny)
+### 🔹 [tiny-extractor](https://github.com/chrisbenini/tiny-extractor)
 
 Aplicação em Python para **extração automatizada de produtos do Tiny ERP**.
 
