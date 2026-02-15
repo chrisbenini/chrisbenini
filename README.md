@@ -1,106 +1,90 @@
-  <h1 align="center">Oi, eu sou o Chris 👋</h1>
+<h1 align="center">Oi, eu sou o Chris 👋</h1>
 
 <p align="center">
-  Desenvolvedor Python focado em automação para varejo e análise de dados.
+  Desenvolvedor focado em <b>automação para varejo</b>, <b>extração de dados</b> e <b>apps desktop</b>.
 </p>
 
 <p align="center">
   <a href="https://github.com/chrisbenini?tab=repositories">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/chrisbenini?label=Seguidores&style=flat-square">
+    <img alt="Repos" src="https://img.shields.io/badge/Ver%20reposit%C3%B3rios-000?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="https://github.com/chrisbenini">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/chrisbenini?affiliations=OWNER&style=flat-square">
+  <a href="https://github.com/chrisbenini?tab=followers">
+    <img alt="Seguidores" src="https://img.shields.io/github/followers/chrisbenini?label=Seguidores&style=flat-square">
   </a>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python">
+  <a href="https://github.com/chrisbenini?tab=stars">
+    <img alt="Stars" src="https://img.shields.io/github/stars/chrisbenini?affiliations=OWNER&style=flat-square">
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white">
+  <img alt="CSharp" src="https://img.shields.io/badge/C%23-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-Automation-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- Trabalho com **automação de rotinas para varejo**, principalmente no contexto de drogaria/farmácia.  
-- Gosto de transformar **planilhas manuais e consultas SQL** em scripts que rodam em segundos.  
-- Tenho experiência com:
-  - Limpeza e validação de dados (EAN, NCM, preços, margens)
-  - Integração com **SQL Server** (`pyodbc`)
-  - Geração automática de relatórios em **Excel**
-  - Pequenas aplicações desktop usando **Tkinter / CustomTkinter**
-
-No dia a dia, foco em código **claro, testado e fácil de reaproveitar**.
+- Automação de rotinas para **varejo** (drogaria/farmácia): dados de produto, validações e relatórios.
+- Transformo tarefas manuais (planilhas + SQL) em **processos rápidos e repetíveis**.
+- Curto entregar ferramenta que o usuário final consegue rodar: **GUI desktop** e **.exe**.
 
 ---
 
 ## 🧰 Stack
 
-**Linguagens & Ferramentas**
-
-- 🐍 Python (pandas, numpy, requests)
-- 🗄️ SQL / SQL Server (pyodbc)
-- 🌐 Integração com APIs (REST)
-- 📊 Excel automation (openpyxl, xlsxwriter)
-- 🖥️ Tkinter / CustomTkinter (GUI)
-- ⚙️ Automação headless / background
-- 🧠 Neo4j / Cypher (grafos e modelagem)
-- 📦 PyInstaller (geração de executáveis `.exe`)
+- 🐍 **Python** (pandas, requests, automações)
+- 🗄️ **SQL Server** (pyodbc / consultas e integrações)
+- 📊 **Excel** (openpyxl / xlsxwriter / relatórios automatizados)
+- 🖥️ **Desktop**: Tkinter / CustomTkinter
+- 🧩 **C# / .NET + Avalonia UI** (apps desktop)
+- 📦 **Empacotamento**: PyInstaller + Inno Setup (instalador)
 - 🧾 Git & GitHub
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 🔹 [tiny-extractor](https://github.com/chrisbenini/tiny-extractor)
+### 🔹 Conversor-de-XML (Desktop)
+➡️ Conversor de **XML/PDF/TXT (com XML embutido)** para **Excel (.xlsx)**  
+- NF-e com cálculos (ST/IPI)
+- Modo Power Query (selecionar tags/linhas)
+- Instalador via GitHub Releases
 
-Aplicação em Python para **extração automatizada de produtos do Tiny ERP**.
-
-- Interface Desktop (GUI) para usuário final
-- Modo **headless** para servidores e execuções agendadas
-- Geração automática de base em **Excel**
-- Possibilidade de empacotamento em `.exe`
-
-👉 Projeto com foco em **automação real de processos corporativos**.
+👉 Repo: https://github.com/chrisbenini/Conversor-de-XML
 
 ---
 
-### 🔹 [Meus-projetos](https://github.com/chrisbenini/Meus-projetos)
+### 🔹 tiny-extractor
+Extração automatizada de produtos do **Tiny ERP** (GUI + modo headless)
+- Integração com API
+- Geração de base Excel
+- Rotina pronta pra agendamento/servidor
 
-
-Coleção de utilitários em Python usados no dia a dia do varejo:
-
-- **alertas.py** – Ajuste de produtos sem PMC/PMPF, cruzando base SQL + planilhas de PMC/PMPF e gerando planilhas de alerta.  
-- **ajustes_eans.py** – Identifica EANs inválidos (diferente de 13 dígitos) e gera relatório de inconsistências.  
-- **margem.py** – Calcula margem bruta e líquida por produto e gera planilhas de alerta.  
-- **convert_XML.py** – Aplicação desktop que converte XML de NF-e em Excel, pronta para cálculos fiscais, com possibilidade de gerar `.exe` para usuário final.
-
-> Projeto em produção no contexto de varejo, automatizando tarefas que antes eram 100% manuais.
+👉 Repo: https://github.com/chrisbenini/tiny-extractor
 
 ---
 
-### 🔹 Outros projetos
+### 🔹 Meus-projetos
+Coleção de utilitários usados no dia a dia do varejo:
+- validação de EAN, inconsistências e alertas
+- margem bruta/líquida
+- planilhas automáticas
 
-- [Dio-graph](https://github.com/chrisbenini/Dio-graph) – Modelagem de grafo de conhecimento usando **Neo4j** e **Cypher**.  
-- [musica-recomendada](https://github.com/chrisbenini/musica_recomendada) – Sistema de recomendação de músicas (estudo de grafos e recomendação).
-- [rede-social-grafos](https://github.com/chrisbenini/rede-social-grafos) – Banco de dados em grafos para uma rede social, usando **Neo4j** e **Cypher**, modelando usuários, posts, comentários, hashtags, grupos e engajamento.
-
----
-
-## 📊 Estatísticas
-
-Estou sempre estudando e subindo projetos relacionados a automação, análise de dados e experimentos com grafos.
+👉 Repo: https://github.com/chrisbenini/Meus-projetos
 
 ---
 
 ## 📬 Contato
 
-- 📧 E-mail: **chrisferruge18@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/christopher-benini-081b7833a/
-
-Se quiser trocar ideia sobre automação para varejo, análise de dados ou Python em geral, é só chamar. 😉
+- 📧 **Email:** chrisferruge18@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/christopher-benini-081b7833a/
 
 ---
 
 ## 🌍 Short English summary
 
-> I'm a Python developer focused on automation for retail and data analysis.  
-> I build scripts to validate product data (EAN, prices, margins), integrate with SQL Server, generate Excel reports and create small desktop tools using Tkinter/CustomTkinter.  
->  
-> My main portfolio project is **Meus-projetos**, a collection of Python utilities used in a real retail environment.
+> I'm a developer focused on retail automation, data extraction and desktop tools.  
+> I build solutions that integrate with SQL Server/APIs, generate Excel reports and deliver user-friendly desktop apps (Python & .NET).
