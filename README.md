@@ -45,10 +45,26 @@
 
 ---
 
+---
+
 ## 🚀 Projetos em destaque
+
+### 🔹 Marketplace Margin Simulator
+Simulador profissional de **precificação e análise de margem para marketplaces**.
+
+- Cálculo de margem bruta e líquida  
+- Simulação de preço ideal por canal  
+- Comparativo entre Mercado Livre, Shopee e Amazon  
+- Indicador de rentabilidade consolidada  
+- Ferramenta focada em decisão estratégica para sellers  
+
+👉 Repo: https://github.com/chrisbenini/marketplace-margin-simulator
+
+---
 
 ### 🔹 Conversor-de-XML (Desktop)
 ➡️ Conversor de **XML/PDF/TXT (com XML embutido)** para **Excel (.xlsx)**  
+
 - NF-e com cálculos (ST/IPI)
 - Modo Power Query (selecionar tags/linhas)
 - Instalador via GitHub Releases
@@ -59,6 +75,7 @@
 
 ### 🔹 tiny-extractor
 Extração automatizada de produtos do **Tiny ERP** (GUI + modo headless)
+
 - Integração com API
 - Geração de base Excel
 - Rotina pronta pra agendamento/servidor
@@ -69,9 +86,10 @@ Extração automatizada de produtos do **Tiny ERP** (GUI + modo headless)
 
 ### 🔹 Meus-projetos
 Coleção de utilitários usados no dia a dia do varejo:
-- validação de EAN, inconsistências e alertas
-- margem bruta/líquida
-- planilhas automáticas
+
+- Validação de EAN, inconsistências e alertas
+- Cálculo de margem bruta/líquida
+- Planilhas automatizadas
 
 👉 Repo: https://github.com/chrisbenini/Meus-projetos
 
