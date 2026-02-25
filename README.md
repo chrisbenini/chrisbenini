@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Chris 👋</h1>
 
 <p align="center">
-  Desenvolvedor focado em <b>automação para varejo</b>, <b>extração de dados</b> e <b>apps desktop</b>.
+  Profissional focado em <b>Dados, Automação e Integrações</b>, com forte base em desenvolvimento de ferramentas e aplicações desktop.
 </p>
 
 <p align="center">
@@ -11,98 +11,103 @@
   <a href="https://github.com/chrisbenini?tab=followers">
     <img alt="Seguidores" src="https://img.shields.io/github/followers/chrisbenini?label=Seguidores&style=flat-square">
   </a>
-  <a href="https://github.com/chrisbenini?tab=stars">
-    <img alt="Stars" src="https://img.shields.io/github/stars/chrisbenini?affiliations=OWNER&style=flat-square">
-  </a>
 </p>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-Data%20Automation-blue?style=flat-square&logo=python&logoColor=white">
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-Data%20Integration-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-Data%20Reporting-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-Automation-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/Web-Portfolio-1572B6?style=flat-square">
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- Automação de rotinas para **varejo** (drogaria/farmácia): dados de produto, validações e relatórios.
-- Transformo tarefas manuais (planilhas + SQL) em **processos rápidos e repetíveis**.
-- Curto entregar ferramenta que o usuário final consegue rodar: **GUI desktop** e **.exe**.
+Atuo desenvolvendo soluções voltadas para **organização, transformação e análise de dados**, principalmente no contexto de varejo.
+
+Tenho experiência em:
+
+- Extração e tratamento de dados via API
+- Integração com SQL Server
+- Automação de planilhas e relatórios
+- Consolidação de dados para tomada de decisão
+- Criação de ferramentas internas para ganho de produtividade
+
+Minha base em desenvolvimento me permite transformar processos manuais em fluxos automatizados e escaláveis.
+
+---
+
+## 🧠 Especialidades em Dados
+
+- 🐍 Python para ETL e automações
+- 📊 Geração de relatórios estruturados (Excel)
+- 🗄️ Modelagem e consultas SQL
+- 🔄 Integração com APIs (Tiny ERP, marketplaces)
+- 📈 Simulação e análise de margem
+- ⚙️ Criação de ferramentas internas para times operacionais
 
 ---
 
 ## 🧰 Stack
 
-- 🐍 **Python** (pandas, requests, automações)
-- 🗄️ **SQL Server** (pyodbc / consultas e integrações)
-- 📊 **Excel** (openpyxl / xlsxwriter / relatórios automatizados)
-- 🖥️ **Desktop**: Tkinter / CustomTkinter
-- 🧩 **C# / .NET + Avalonia UI** (apps desktop)
-- 📦 **Empacotamento**: PyInstaller + Inno Setup (instalador)
-- 🧾 Git & GitHub
-
----
+- **Python** (pandas, requests, automações)
+- **SQL Server** (consultas, integração, modelagem)
+- **Excel** (openpyxl, xlsxwriter, relatórios automatizados)
+- **C# / .NET + Avalonia UI**
+- **HTML, CSS, JavaScript** (interfaces e apresentação profissional)
+- Git & GitHub
 
 ---
 
 ## 🚀 Projetos em destaque
 
+### 🔹 Portfolio (Web)
+
+Portfólio desenvolvido para apresentar meus projetos e soluções de dados de forma visual e profissional.
+
+🌐 Repo público: https://github.com/chrisbenini/Portfolio  
+
+---
+
 ### 🔹 Marketplace Margin Simulator
-Simulador profissional de **precificação e análise de margem para marketplaces**.
 
-- Cálculo de margem bruta e líquida  
-- Simulação de preço ideal por canal  
-- Comparativo entre Mercado Livre, Shopee e Amazon  
-- Indicador de rentabilidade consolidada  
-- Ferramenta focada em decisão estratégica para sellers  
+Ferramenta para simulação estratégica de margem em marketplaces.
 
-👉 Repo: https://github.com/chrisbenini/marketplace-margin-simulator
+- Consolidação de custos
+- Análise de rentabilidade
+- Simulação por canal de venda
+- Apoio à tomada de decisão
+
+👉 https://github.com/chrisbenini/marketplace-margin-simulator
 
 ---
 
 ### 🔹 Conversor-de-XML (Desktop)
-➡️ Conversor de **XML/PDF/TXT (com XML embutido)** para **Excel (.xlsx)**  
 
-- NF-e com cálculos (ST/IPI)
-- Modo Power Query (selecionar tags/linhas)
-- Instalador via GitHub Releases
+Transformação de XML fiscal em base estruturada para análise em Excel.
 
-👉 Repo: https://github.com/chrisbenini/Conversor-de-XML
+👉 https://github.com/chrisbenini/Conversor-de-XML
 
 ---
 
 ### 🔹 tiny-extractor
-Extração automatizada de produtos do **Tiny ERP** (GUI + modo headless)
 
-- Integração com API
-- Geração de base Excel
-- Rotina pronta pra agendamento/servidor
+Extração automatizada de dados via API para geração de base analítica.
 
-👉 Repo: https://github.com/chrisbenini/tiny-extractor
-
----
-
-### 🔹 Meus-projetos
-Coleção de utilitários usados no dia a dia do varejo:
-
-- Validação de EAN, inconsistências e alertas
-- Cálculo de margem bruta/líquida
-- Planilhas automatizadas
-
-👉 Repo: https://github.com/chrisbenini/Meus-projetos
+👉 https://github.com/chrisbenini/tiny-extractor
 
 ---
 
 ## 📬 Contato
 
-- 📧 **Email:** chrisferruge18@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/christopher-benini-081b7833a/
+- 📧 chrisbenini13@gmail.com 
+- 💼 https://www.linkedin.com/in/christopher-benini-081b7833a/
 
 ---
 
 ## 🌍 Short English summary
 
-> I'm a developer focused on retail automation, data extraction and desktop tools.  
-> I build solutions that integrate with SQL Server/APIs, generate Excel reports and deliver user-friendly desktop apps (Python & .NET).
+> Data-focused developer working with automation, SQL integrations and data transformation for retail environments.  
+> I build tools that turn operational data into structured and actionable information.
