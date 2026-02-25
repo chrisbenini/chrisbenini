@@ -67,7 +67,7 @@ Minha base em desenvolvimento me permite transformar processos manuais em fluxos
 
 Portfólio desenvolvido para apresentar meus projetos e soluções de dados de forma visual e profissional.
 
-🌐 Repo público: https://github.com/chrisbenini/Portfolio  
+👉 https://github.com/chrisbenini/Portfolio  
 
 ---
 
