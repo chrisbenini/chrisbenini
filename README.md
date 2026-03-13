@@ -52,60 +52,9 @@ Minha base em desenvolvimento me permite transformar processos manuais em fluxos
 
 ## 🧰 Stack
 
-<div align="center">
-
-<div style="display:inline-block; text-align:center; margin:10px">
-<img src="./assets/icones/Python_cor_512.png" width="48"><br>
-<b>Python</b>
-</div>
-
-<div style="display:inline-block; text-align:center; margin:10px">
-<img src="./assets/icones/Sql_cor_512.png" width="48"><br>
-<b>SQL Server</b>
-</div>
-
-<div style="display:inline-block; text-align:center; margin:10px">
-<img src="./assets/icones/excel_cor_512.png" width="48"><br>
-<b>Excel</b>
-</div>
-
-<div style="display:inline-block; text-align:center; margin:10px">
-<img src="./assets/icones/C_cor_512.png" width="48"><br>
-<b>C#</b>
-</div>
-
-<div style="display:inline-block; text-align:center; margin:10px">
-<img src="./assets/icones/Net_cor_512.png" width="48"><br>
-<b>.NET</b>
-</div>
-
-<div style="display:inline-block; text-align:center; margin:10px">
-<img src="./assets/icones/Avalonia_cor_512.png" width="48"><br>
-<b>Avalonia</b>
-</div>
-
-<div style="display:inline-block; text-align:center; margin:10px">
-<img src="./assets/icones/Hc_cor_512.png" width="48"><br>
-<b>HTML/CSS</b>
-</div>
-
-<div style="display:inline-block; text-align:center; margin:10px">
-<img src="./assets/icones/Js_cor_512.png" width="48"><br>
-<b>JavaScript</b>
-</div>
-
-<div style="display:inline-block; text-align:center; margin:10px">
-<img src="./assets/icones/Git_sc_512.png" width="48"><br>
-<b>Git</b>
-</div>
-
-<div style="display:inline-block; text-align:center; margin:10px">
-<img src="./assets/icones/Dev_cor_512.png" width="48"><br>
-<b>GitHub</b>
-</div>
-
-</div>
-
+| | | | | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| <img src="./assets/icones/Python_cor_512.png" width="48"><br>Python | <img src="./assets/icones/Sql_cor_512.png" width="48"><br>SQL Server | <img src="./assets/icones/excel_cor_512.png" width="48"><br>Excel | <img src="./assets/icones/C_cor_512.png" width="48"><br>C# | <img src="./assets/icones/Net_cor_512.png" width="48"><br>.NET | <img src="./assets/icones/Avalonia_cor_512.png" width="48"><br>Avalonia | <img src="./assets/icones/Hc_cor_512.png" width="48"><br>HTML/CSS | <img src="./assets/icones/Js_cor_512.png" width="48"><br>JavaScript | <img src="./assets/icones/Git_sc_512.png" width="48"><br>Git | <img src="./assets/icones/Dev_cor_512.png" width="48"><br>GitHub |
 ---
 
 ## 🚀 Projetos em destaque
