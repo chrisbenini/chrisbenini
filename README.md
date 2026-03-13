@@ -149,17 +149,17 @@ Ferramenta de extração automatizada de dados via API para geração de base an
 </p>
 
 <p align="left">
-  <a href="https://wa.me/SEUNUMERO" target="_blank">
+  <a href="https://wa.me/17981478331" target="_blank">
     <img src="./assets/icones/Zap_sc_512.png" width="22" alt="WhatsApp">
   </a>
-  <b>WhatsApp:</b> seu número aqui
+  <b>WhatsApp:</b> 17981478331
 </p>
 
 <p align="left">
-  <a href="https://instagram.com/SEUUSUARIO" target="_blank">
+  <a href="https://instagram.com/chrisbenini" target="_blank">
     <img src="./assets/icones/Insta_sc_512.png" width="22" alt="Instagram">
   </a>
-  <b>Instagram:</b> @seuusuario
+  <b>Instagram:</b> @chrisbenini
 </p>
 
 ---
