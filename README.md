@@ -136,19 +136,19 @@ Ferramenta de extração automatizada de dados via API para geração de base an
 
 <p align="left">
   <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/" target="_blank">
-    <img src="./assets/icones/Linkedin_cor_512.png" width="68" alt="LinkedIn">
+    <img src="./assets/icones/Linkedin_cor_512.png" width="80" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/chrisbenini" target="_blank">
-    <img src="./assets/icones/Insta_cor_512.png" width="68" alt="Instagram">
+    <img src="./assets/icones/Insta_cor_512.png" width="80" alt="Instagram">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:chrisbenini13@gmail.com">
-    <img src="./assets/icones/Email_cor_512.png" width="68" alt="E-mail">
+    <img src="./assets/icones/Email_cor_512.png" width="80" alt="E-mail">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/17981478331" target="_blank">
-    <img src="./assets/icones/Whats_cor_512.png" width="68" alt="WhatsApp">
+    <img src="./assets/icones/Whats_cor_512.png" width="80" alt="WhatsApp">
   </a>
 </p>
 
