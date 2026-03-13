@@ -1,7 +1,11 @@
-<h1 align="center">Chris Benini</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22d3ee&text=Christopher%20Benini&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20%7C%20Automation%20%7C%20Integrations&descAlignY=58&animation=fadeIn" />
+</p>
+
+<h1 align="center">Christopher Benini</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Dados+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;Python+%7C+SQL+Server+%7C+Excel+%7C+C%23+%7C+.NET;Solu%C3%A7%C3%B5es+que+transformam+dados+operacionais+em+decis%C3%A3o;Retail+Data+%7C+Internal+Tools+%7C+Productivity+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Dados+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;Python+%7C+SQL+Server+%7C+Excel+%7C+C%23+%7C+.NET;Solu%C3%A7%C3%B5es+que+transformam+dados+operacionais+em+decis%C3%A3o;Retail+Data+%7C+Internal+Tools+%7C+Productivity+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/chrisbenini?tab=repositories">
-    <img alt="Repos" src="https://img.shields.io/badge/Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://github.com/chrisbenini?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/chrisbenini?style=for-the-badge&label=Followers&color=06B6D4&labelColor=0F172A">
@@ -107,13 +111,14 @@ Ferramenta para análise estratégica de margem em marketplaces, apoiando decis�
 
 ---
 
-### [`Conversor-de-XML (Desktop)`](https://github.com/chrisbenini/Conversor-de-XML)
-Aplicação desktop para transformar XML fiscal em base estruturada para uso operacional e análise em Excel.
+### [`Ecommerce SQL Database`](https://github.com/chrisbenini/Ecommerce-sql-database)
+Projeto de banco de dados relacional para um cenário fictício de e-commerce, desenvolvido como parte de um projeto acadêmico.
 
 **Highlights**
-- Leitura e tratamento de XML
-- Estruturação de dados para análise
-- Base pronta para fluxos operacionais
+- Modelagem de um banco de dados para e-commerce
+- Estruturação de tabelas, relacionamentos e consultas SQL
+- Aplicação prática de conceitos de modelagem relacional
+- Projeto voltado para aprendizado e consolidação de fundamentos em banco de dados
 
 ---
 
@@ -138,7 +143,7 @@ Ferramenta de extração automatizada via API para geração de base analítica 
 
 ---
 
-## `> contact`
+## `> connect_with_me`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/">
