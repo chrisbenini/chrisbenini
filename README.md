@@ -1,19 +1,19 @@
-<h1 align="center">Oi, eu sou o Chris 👋</h1>
+<h1 align="center">Chris Benini</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Dados+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;Python+%7C+SQL+Server+%7C+Excel+%7C+C%23+%7C+.NET;Solu%C3%A7%C3%B5es+que+transformam+dados+em+decis%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Dados+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;Python+%7C+SQL+Server+%7C+Excel+%7C+C%23+%7C+.NET;Solu%C3%A7%C3%B5es+que+transformam+dados+operacionais+em+decis%C3%A3o;Retail+Data+%7C+Internal+Tools+%7C+Productivity+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Profissional focado em <b>Dados, Automação e Integrações</b>, desenvolvendo soluções que transformam dados operacionais em <b>informação estruturada para análise e tomada de decisão</b>.
+  Desenvolvedor focado em <b>Dados, Automação e Integrações</b>, criando soluções que transformam processos operacionais em <b>fluxos estruturados, escaláveis e orientados à decisão</b>.
 </p>
 
 <p align="center">
   <a href="https://github.com/chrisbenini?tab=repositories">
-    <img alt="Repos" src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="Repos" src="https://img.shields.io/badge/Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://github.com/chrisbenini?tab=followers">
-    <img alt="Seguidores" src="https://img.shields.io/github/followers/chrisbenini?style=for-the-badge&color=22D3EE&labelColor=0f172a">
+    <img alt="Followers" src="https://img.shields.io/github/followers/chrisbenini?style=for-the-badge&label=Followers&color=06B6D4&labelColor=0F172A">
   </a>
   <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -22,17 +22,29 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## `> about_me`
 
-Atuo desenvolvendo soluções voltadas para **organização, transformação e análise de dados**, principalmente em contextos de **varejo e operações comerciais**.
+Atuo no desenvolvimento de soluções voltadas para **organização, transformação e análise de dados**, com foco em **varejo, operações comerciais, automação de processos e integração de sistemas**.
 
-Trabalho com automações, integrações e ferramentas internas que reduzem processos manuais, estruturam dados e apoiam decisões operacionais e comerciais.
+Trabalho construindo ferramentas que reduzem tarefas manuais, melhoram a confiabilidade dos dados e apoiam rotinas operacionais com mais velocidade, consistência e visibilidade.
 
-Minha base em desenvolvimento me permite transformar demandas do dia a dia em **soluções automatizadas, reutilizáveis e escaláveis**.
+Minha base técnica combina **dados + desenvolvimento + produtividade operacional**, permitindo transformar demandas do dia a dia em **soluções reutilizáveis e escaláveis**.
 
 ---
 
-## 🚀 Tech Stack
+## `> core_skills`
+
+- Automação de processos operacionais
+- ETL e transformação de dados com Python
+- Integração entre APIs, planilhas e banco de dados
+- Modelagem e consultas em SQL Server
+- Geração de relatórios estruturados em Excel
+- Ferramentas internas para apoio à operação
+- Simulação de margem, apoio à precificação e análise comercial
+
+---
+
+## `> tech_stack`
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,9 +60,18 @@ Minha base em desenvolvimento me permite transformar demandas do dia a dia em **
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/APIs-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Integration-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-14B8A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Internal_Tools-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Retail_Data-8B5CF6?style=flat-square" />
+</p>
+
 ---
 
-## 📊 GitHub Analytics
+## `> github_analytics`
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=chrisbenini&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -63,71 +84,61 @@ Minha base em desenvolvimento me permite transformar demandas do dia a dia em **
 
 ---
 
-## 🧠 Especialidades
+## `> featured_projects`
 
-- 🐍 Automações e rotinas de ETL com Python
-- 🗄️ Modelagem, consultas e integração com SQL Server
-- 📊 Geração de relatórios e bases estruturadas em Excel
-- 🔄 Integração com APIs e sistemas como Tiny ERP e marketplaces
-- 📈 Simulação de margem e apoio à precificação
-- ⚙️ Desenvolvimento de ferramentas internas para ganho de produtividade operacional
+### [`Portfolio (Web)`](https://github.com/chrisbenini/Portfolio)
+Portfólio desenvolvido para apresentar projetos e soluções de forma visual, organizada e profissional.
 
----
-
-## 📌 O que eu gosto de construir
-
-- Automação de processos operacionais
-- Integração entre APIs, planilhas e bancos de dados
-- Consolidação de dados para análise
-- Ferramentas internas para aumento de produtividade
-- Soluções de apoio à tomada de decisão
-
----
-
-## 🚀 Projetos em destaque
-
-### 🔹 [Portfolio (Web)](https://github.com/chrisbenini/Portfolio)
-Portfólio web desenvolvido para apresentar meus projetos e soluções de dados de forma visual, organizada e profissional.
-
-**Destaques**
-- Apresentação clara dos projetos
-- Organização da stack tecnológica
+**Highlights**
 - Estrutura pensada para recrutadores e empresas
+- Apresentação clara de projetos e stack
+- Interface voltada para posicionamento profissional
 
 ---
 
-### 🔹 [Marketplace Margin Simulator](https://github.com/chrisbenini/marketplace-margin-simulator)
-Ferramenta para análise estratégica de margem em marketplaces.
+### [`Marketplace Margin Simulator`](https://github.com/chrisbenini/marketplace-margin-simulator)
+Ferramenta para análise estratégica de margem em marketplaces, apoiando decisões de precificação e rentabilidade.
 
-**Destaques**
+**Highlights**
 - Consolidação automática de custos
 - Simulação de margem por canal de venda
 - Análise de rentabilidade por produto
-- Apoio à tomada de decisão comercial
+- Suporte à tomada de decisão comercial
 
 ---
 
-### 🔹 [Conversor-de-XML (Desktop)](https://github.com/chrisbenini/Conversor-de-XML)
-Aplicação desktop voltada para transformar XML fiscal em uma base estruturada para análise em Excel.
+### [`Conversor-de-XML (Desktop)`](https://github.com/chrisbenini/Conversor-de-XML)
+Aplicação desktop para transformar XML fiscal em base estruturada para uso operacional e análise em Excel.
 
-**Destaques**
+**Highlights**
 - Leitura e tratamento de XML
-- Estruturação de dados para uso operacional
-- Geração de base pronta para análise
+- Estruturação de dados para análise
+- Base pronta para fluxos operacionais
 
 ---
 
-### 🔹 [tiny-extractor](https://github.com/chrisbenini/tiny-extractor)
-Ferramenta de extração automatizada de dados via API para geração de base analítica.
+### [`tiny-extractor`](https://github.com/chrisbenini/tiny-extractor)
+Ferramenta de extração automatizada via API para geração de base analítica e apoio a relatórios.
 
-**Destaques**
+**Highlights**
 - Coleta automatizada de dados
 - Integração com fluxo analítico
 - Estruturação de dados para relatórios e análises
 
 ---
 
-## 📬 Contato
+## `> current_focus`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Python_Automation-0F172A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-SQL_Integration-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Internal_Tools-0F172A?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AWS_Learning-0F172A?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+## `> contact`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/">
@@ -149,7 +160,9 @@ Ferramenta de extração automatizada de dados via API para geração de base an
 
 ---
 
-## 🌍 Short English Summary
+## `> short_english_summary`
 
-> Data-focused developer working with automation, SQL integrations and data transformation for retail operations.  
-> I build tools that transform operational data into structured and actionable insights.
+```txt
+Data-focused developer working with automation, SQL integrations and data transformation
+for retail operations. I build tools that transform operational data into structured,
+reliable and actionable insights.
