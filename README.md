@@ -52,61 +52,59 @@ Minha base em desenvolvimento me permite transformar processos manuais em fluxos
 
 ## 🧰 Stack
 
-<table align="center" style="border:none;">
-<tr>
+<div align="center">
 
-<td align="center" style="border:none;">
+<div style="display:inline-block; text-align:center; margin:10px">
 <img src="./assets/icones/Python_cor_512.png" width="48"><br>
 <b>Python</b>
-</td>
+</div>
 
-<td align="center" style="border:none;">
+<div style="display:inline-block; text-align:center; margin:10px">
 <img src="./assets/icones/Sql_cor_512.png" width="48"><br>
 <b>SQL Server</b>
-</td>
+</div>
 
-<td align="center" style="border:none;">
+<div style="display:inline-block; text-align:center; margin:10px">
 <img src="./assets/icones/excel_cor_512.png" width="48"><br>
 <b>Excel</b>
-</td>
+</div>
 
-<td align="center" style="border:none;">
+<div style="display:inline-block; text-align:center; margin:10px">
 <img src="./assets/icones/C_cor_512.png" width="48"><br>
 <b>C#</b>
-</td>
+</div>
 
-<td align="center" style="border:none;">
+<div style="display:inline-block; text-align:center; margin:10px">
 <img src="./assets/icones/Net_cor_512.png" width="48"><br>
 <b>.NET</b>
-</td>
+</div>
 
-<td align="center" style="border:none;">
+<div style="display:inline-block; text-align:center; margin:10px">
 <img src="./assets/icones/Avalonia_cor_512.png" width="48"><br>
 <b>Avalonia</b>
-</td>
+</div>
 
-<td align="center" style="border:none;">
+<div style="display:inline-block; text-align:center; margin:10px">
 <img src="./assets/icones/Hc_cor_512.png" width="48"><br>
 <b>HTML/CSS</b>
-</td>
+</div>
 
-<td align="center" style="border:none;">
+<div style="display:inline-block; text-align:center; margin:10px">
 <img src="./assets/icones/Js_cor_512.png" width="48"><br>
 <b>JavaScript</b>
-</td>
+</div>
 
-<td align="center" style="border:none;">
+<div style="display:inline-block; text-align:center; margin:10px">
 <img src="./assets/icones/Git_sc_512.png" width="48"><br>
 <b>Git</b>
-</td>
+</div>
 
-<td align="center" style="border:none;">
+<div style="display:inline-block; text-align:center; margin:10px">
 <img src="./assets/icones/Dev_cor_512.png" width="48"><br>
 <b>GitHub</b>
-</td>
+</div>
 
-</tr>
-</table>
+</div>
 
 ---
 
