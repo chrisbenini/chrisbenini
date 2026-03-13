@@ -136,25 +136,22 @@ Ferramenta de extração automatizada de dados via API para geração de base an
 
 <p align="left">
   <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/" target="_blank">
-    <img src="./assets/icones/Linkedin_sc_512.png" width="28" alt="LinkedIn">
+    <img src="./assets/icones/Linkedin_sc_512.png" width="30" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/chrisbenini" target="_blank">
-    <img src="./assets/icones/Dev_cor_512.png" width="28" alt="GitHub">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/chrisbenini" target="_blank">
+    <img src="./assets/icones/Insta_sc_512.png" width="30" alt="Instagram">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/SEUUSUARIO" target="_blank">
-    <img src="./assets/icones/Insta_sc_512.png" width="28" alt="Instagram">
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:chrisbenini13@gmail.com">
-    <img src="./assets/icones/email_cor_512.png" width="28" alt="E-mail">
+    <img src="./assets/icones/email_cor_512.png" width="30" alt="E-mail">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/SEUNUMERO" target="_blank">
-    <img src="./assets/icones/Zap_sc_512.png" width="28" alt="WhatsApp">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/17981478331" target="_blank">
+    <img src="./assets/icones/Zap_sc_512.png" width="30" alt="WhatsApp">
   </a>
 </p>
+
 ---
 
 ## 🌍 Short English Summary
