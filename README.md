@@ -1,8 +1,6 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22d3ee&text=Christopher%20Benini&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20%7C%20Automation%20%7C%20Integrations&descAlignY=58&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:081229,50:0F4C81,100:22D3EE&text=Christopher%20Benini&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20%7C%20Automation%20%7C%20Integrations&descAlignY=58&animation=fadeIn" />
 </p>
-
-<h1 align="center">Christopher Benini</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Dados+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;Python+%7C+SQL+Server+%7C+Excel+%7C+C%23+%7C+.NET;Solu%C3%A7%C3%B5es+que+transformam+dados+operacionais+em+decis%C3%A3o;Retail+Data+%7C+Internal+Tools+%7C+Productivity+Automation" alt="Typing SVG" />
@@ -115,10 +113,10 @@ Ferramenta para análise estratégica de margem em marketplaces, apoiando decis�
 Projeto de banco de dados relacional para um cenário fictício de e-commerce, desenvolvido como parte de um projeto acadêmico.
 
 **Highlights**
-- Modelagem de um banco de dados para e-commerce
+- Modelagem de banco de dados para e-commerce
 - Estruturação de tabelas, relacionamentos e consultas SQL
-- Aplicação prática de conceitos de modelagem relacional
-- Projeto voltado para aprendizado e consolidação de fundamentos em banco de dados
+- Aplicação prática de modelagem relacional
+- Projeto voltado para consolidação de fundamentos em banco de dados
 
 ---
 
