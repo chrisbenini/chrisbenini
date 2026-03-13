@@ -52,9 +52,10 @@ Minha base em desenvolvimento me permite transformar processos manuais em fluxos
 
 ## 🧰 Stack
 
-<table>
+<table align="center" border="0">
 <tr>
-<td align="center">
+
+<td align="center" border="0">
 <img src="./assets/icones/Python_cor_512.png" width="50"><br>
 <b>Python</b>
 </td>
