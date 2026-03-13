@@ -56,19 +56,6 @@ Minha base em desenvolvimento me permite transformar demandas operacionais em **
 
 ## 🧰 Stack
 
-<p align="left">
-  <img src="./assets/icones/Python_cor_512.png" width="42" alt="Python">
-  <img src="./assets/icones/sqlserver_cor_512.png" width="42" alt="SQL Server">
-  <img src="./assets/icones/Excel_cor_512.png" width="42" alt="Excel">
-  <img src="./assets/icones/C_cor_512.png" width="42" alt="C#">
-  <img src="./assets/icones/Net_cor_512.png" width="42" alt=".NET">
-  <img src="./assets/icones/Avalonia_cor_512.png" width="42" alt="Avalonia UI">
-  <img src="./assets/icones/Hc_cor_512.png" width="42" alt="HTML/CSS">
-  <img src="./assets/icones/Js_cor_512.png" width="42" alt="JavaScript">
-  <img src="./assets/icones/Git_cor_512.png" width="42" alt="Git">
-  <img src="./assets/icones/Github_sc_512.png" width="42" alt="GitHub">
-</p>
-
 ### Data & Automation
 **Python • SQL Server • Excel**
 
@@ -136,19 +123,23 @@ Ferramenta de extração automatizada de dados via API para geração de base an
 
 <p align="left">
   <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/" target="_blank">
-    <img src="./assets/icones/Linkedin_cor_512.png" width="80" alt="LinkedIn">
+    <img src="./assets/icones/Linkedin_cor_512.png" width="26" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/chrisbenini" target="_blank">
-    <img src="./assets/icones/Insta_cor_512.png" width="80" alt="Instagram">
+    <img src="./assets/icones/Insta_cor_512.png" width="26" alt="Instagram">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:chrisbenini13@gmail.com">
-    <img src="./assets/icones/Email_cor_512.png" width="80" alt="E-mail">
+    <img src="./assets/icones/Email_cor_512.png" width="26" alt="E-mail">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/17981478331" target="_blank">
-    <img src="./assets/icones/Whats_cor_512.png" width="80" alt="WhatsApp">
+    <img src="./assets/icones/Whats_cor_512.png" width="26" alt="WhatsApp">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/chrisbenini" target="_blank">
+    <img src="./assets/icones/Github_sc_512.png" width="26" alt="GitHub">
   </a>
 </p>
 
