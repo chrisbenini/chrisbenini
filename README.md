@@ -66,7 +66,7 @@ Minha base em desenvolvimento me permite transformar demandas operacionais em **
   <img src="./assets/icones/Hc_cor_512.png" width="42" alt="HTML/CSS">
   <img src="./assets/icones/Js_cor_512.png" width="42" alt="JavaScript">
   <img src="./assets/icones/Git_cor_512.png" width="42" alt="Git">
-  <img src="./assets/icones/Github_cor_512.png" width="42" alt="GitHub">
+  <img src="./assets/icones/Github_sc_512.png" width="42" alt="GitHub">
 </p>
 
 ### Data & Automation
