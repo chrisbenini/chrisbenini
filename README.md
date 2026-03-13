@@ -52,16 +52,20 @@ Minha base em desenvolvimento me permite transformar processos manuais em fluxos
 
 ## 🧰 Stack
 
-<img src="./assets/icones/Python_cor_512.png" width="20" style="vertical-align:middle;"> **Python**  
-<img src="./assets/icones/Sql_cor_512.png" width="20" style="vertical-align:middle;"> **SQL Server**  
-<img src="./assets/icones/excel_cor_512.png" width="16" style="vertical-align:middle;"> **Excel**  
-<img src="./assets/icones/C_cor_512.png" width="20" style="vertical-align:middle;"> **C#**  
-<img src="./assets/icones/Net_cor_512.png" width="20" style="vertical-align:middle;"> **.NET**  
-<img src="./assets/icones/Avalonia_cor_512.png" width="20" style="vertical-align:middle;"> **Avalonia UI**  
-<img src="./assets/icones/Hc_cor_512.png" width="20" style="vertical-align:middle;"> **HTML / CSS**  
-<img src="./assets/icones/Js_cor_512.png" width="20" style="vertical-align:middle;"> **JavaScript**  
-<img src="./assets/icones/Git_sc_512.png" width="20" style="vertical-align:middle;"> **Git**  
-<img src="./assets/icones/Dev_cor_512.png" width="20" style="vertical-align:middle;"> **GitHub**
+<p align="left">
+  <img src="./assets/icones/Python_cor_512.png" width="40">
+  <img src="./assets/icones/Sql_cor_512.png" width="40">
+  <img src="./assets/icones/excel_cor_512.png" width="40">
+  <img src="./assets/icones/C_cor_512.png" width="40">
+  <img src="./assets/icones/Net_cor_512.png" width="40">
+  <img src="./assets/icones/Avalonia_cor_512.png" width="40">
+  <img src="./assets/icones/Hc_cor_512.png" width="40">
+  <img src="./assets/icones/Js_cor_512.png" width="40">
+  <img src="./assets/icones/Git_sc_512.png" width="40">
+  <img src="./assets/icones/Dev_cor_512.png" width="40">
+</p>
+
+**Python • SQL Server • Excel • C# • .NET • Avalonia UI • HTML / CSS • JavaScript • Git • GitHub**
 
 ---
 
