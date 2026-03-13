@@ -52,13 +52,16 @@ Minha base em desenvolvimento me permite transformar processos manuais em fluxos
 
 ## 🧰 Stack
 
-- **Python** (pandas, requests, automações)
-- **SQL Server** (consultas, integração, modelagem)
-- **Excel** (openpyxl, xlsxwriter, relatórios automatizados)
-- **C# / .NET + Avalonia UI**
-- **HTML, CSS, JavaScript** (interfaces e apresentação profissional)
-- Git & GitHub
-
+- <img src="./assets/icones/python/Python_cor_512.png" width="18" alt="Python"> **Python**
+- <img src="./assets/icones/sql/Sql_cor_512.png" width="18" alt="SQL Server"> **SQL Server**
+- <img src="./assets/icones/excel/excel_cor_512.png" width="18" alt="Excel"> **Excel**
+- <img src="./assets/icones/csharp/C_cor_512.png" width="18" alt="C#"> **C# / .NET**
+- <img src="./assets/icones/avalonia/Avalonia_cor_512.png" width="18" alt="Avalonia UI"> **Avalonia UI**
+- <img src="./assets/icones/html/html_cor_512.png" width="18" alt="HTML"> **HTML**
+- <img src="./assets/icones/css/css_cor_512.png" width="18" alt="CSS"> **CSS**
+- <img src="./assets/icones/javascript/Js_cor_512.png" width="18" alt="JavaScript"> **JavaScript**
+- <img src="./assets/icones/git/Git_sc_512.png" width="18" alt="Git"> **Git**
+- <img src="./assets/icones/github/Dev_cor_512.png" width="18" alt="GitHub"> **GitHub**
 ---
 
 ## 🚀 Projetos em destaque
