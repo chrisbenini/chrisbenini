@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Chris 👋</h1>
 
 <p align="center">
-  Profissional focado em <b>Dados, Automação e Integrações</b>, com forte base em desenvolvimento de ferramentas e aplicações desktop.
+  Profissional focado em <b>Dados, Automação e Integrações</b>, desenvolvendo soluções que transformam dados operacionais em <b>informação estruturada para análise e tomada de decisão</b>.
 </p>
 
 <p align="center">
@@ -17,146 +17,154 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-Data%20Automation-blue?style=flat-square&logo=python&logoColor=white">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-Data%20Integration-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
   <img alt="Excel" src="https://img.shields.io/badge/Excel-Data%20Reporting-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-  <img alt="CSharp" src="https://img.shields.io/badge/C%23-.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/Web-Portfolio-1572B6?style=flat-square">
+  <img alt="CSharp" src="https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img alt="Web" src="https://img.shields.io/badge/Web-Interfaces-1572B6?style=flat-square">
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Atuo desenvolvendo soluções voltadas para **organização, transformação e análise de dados**, principalmente no contexto de varejo.
+Atuo desenvolvendo soluções voltadas para **organização, transformação e análise de dados**, principalmente em contextos de **varejo e operações comerciais**.
 
-Tenho experiência em:
+Trabalho criando ferramentas e automações que reduzem processos manuais, integram sistemas e estruturam dados para análise e tomada de decisão.
 
-- Extração e tratamento de dados via API
-- Integração com SQL Server
-- Automação de planilhas e relatórios
-- Consolidação de dados para tomada de decisão
-- Criação de ferramentas internas para ganho de produtividade
-
-Minha base em desenvolvimento me permite transformar processos manuais em fluxos automatizados e escaláveis.
+Minha base em desenvolvimento me permite transformar demandas operacionais em **soluções automatizadas, escaláveis e reutilizáveis**.
 
 ---
 
-## 🧠 Especialidades em Dados
+## 📊 O que eu gosto de construir
 
-- 🐍 Python para ETL e automações
-- 📊 Geração de relatórios estruturados (Excel)
-- 🗄️ Modelagem e consultas SQL
-- 🔄 Integração com APIs (Tiny ERP, marketplaces)
-- 📈 Simulação e análise de margem
-- ⚙️ Criação de ferramentas internas para times operacionais
+- Automação de processos operacionais
+- Integração entre APIs, planilhas e bancos de dados
+- Consolidação de dados para análise
+- Ferramentas internas para aumento de produtividade
+- Soluções de apoio à tomada de decisão
+
+---
+
+## 🧠 Especialidades
+
+- 🐍 Automações e rotinas de ETL com Python
+- 🗄️ Modelagem, consultas e integração com SQL Server
+- 📊 Geração de relatórios e bases estruturadas em Excel
+- 🔄 Integração com APIs e sistemas como Tiny ERP e marketplaces
+- 📈 Simulação de margem e apoio à precificação
+- ⚙️ Desenvolvimento de ferramentas internas para ganho de produtividade operacional
 
 ---
 
 ## 🧰 Stack
 
-<table align="center" style="border:none;">
-<tr>
+<p align="left">
+  <img src="./assets/icones/Python_cor_512.png" width="42" alt="Python">
+  <img src="./assets/icones/Sql_cor_512.png" width="42" alt="SQL Server">
+  <img src="./assets/icones/excel_cor_512.png" width="42" alt="Excel">
+  <img src="./assets/icones/C_cor_512.png" width="42" alt="C#">
+  <img src="./assets/icones/Net_cor_512.png" width="42" alt=".NET">
+  <img src="./assets/icones/Avalonia_cor_512.png" width="42" alt="Avalonia UI">
+  <img src="./assets/icones/Hc_cor_512.png" width="42" alt="HTML/CSS">
+  <img src="./assets/icones/Js_cor_512.png" width="42" alt="JavaScript">
+  <img src="./assets/icones/Git_sc_512.png" width="42" alt="Git">
+  <img src="./assets/icones/Dev_cor_512.png" width="42" alt="GitHub">
+</p>
 
-<td align="center" style="border:none;">
-<img src="./assets/icones/Python_cor_512.png" width="48"><br>
-<b>Python</b>
-</td>
+### Data & Automation
+**Python • SQL Server • Excel**
 
-<td align="center" style="border:none;">
-<img src="./assets/icones/Sql_cor_512.png" width="48"><br>
-<b>SQL Server</b>
-</td>
+### Development
+**C# • .NET • Avalonia UI**
 
-<td align="center" style="border:none;">
-<img src="./assets/icones/excel_cor_512.png" width="48"><br>
-<b>Excel</b>
-</td>
+### Web
+**HTML • CSS • JavaScript**
 
-<td align="center" style="border:none;">
-<img src="./assets/icones/C_cor_512.png" width="48"><br>
-<b>C#</b>
-</td>
-
-<td align="center" style="border:none;">
-<img src="./assets/icones/Net_cor_512.png" width="48"><br>
-<b>.NET</b>
-</td>
-
-<td align="center" style="border:none;">
-<img src="./assets/icones/Avalonia_cor_512.png" width="48"><br>
-<b>Avalonia</b>
-</td>
-
-<td align="center" style="border:none;">
-<img src="./assets/icones/Hc_cor_512.png" width="48"><br>
-<b>HTML/CSS</b>
-</td>
-
-<td align="center" style="border:none;">
-<img src="./assets/icones/Js_cor_512.png" width="48"><br>
-<b>JavaScript</b>
-</td>
-
-<td align="center" style="border:none;">
-<img src="./assets/icones/Git_sc_512.png" width="48"><br>
-<b>Git</b>
-</td>
-
-<td align="center" style="border:none;">
-<img src="./assets/icones/Dev_cor_512.png" width="48"><br>
-<b>GitHub</b>
-</td>
-
-</tr>
-</table>
+### Tools
+**Git • GitHub**
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 🔹 Portfolio (Web)
+### 🔹 [Portfolio (Web)](https://github.com/chrisbenini/Portfolio)
 
-Portfólio desenvolvido para apresentar meus projetos e soluções de dados de forma visual e profissional.
+Portfólio web desenvolvido para apresentar meus projetos e soluções de dados de forma visual, organizada e profissional.
 
-👉 https://github.com/chrisbenini/Portfolio  
-
----
-
-### 🔹 Marketplace Margin Simulator
-
-Ferramenta para simulação estratégica de margem em marketplaces.
-
-- Consolidação de custos
-- Análise de rentabilidade
-- Simulação por canal de venda
-- Apoio à tomada de decisão
-
-👉 https://github.com/chrisbenini/marketplace-margin-simulator
+**Destaques:**
+- Apresentação clara dos projetos
+- Organização da stack tecnológica
+- Estrutura pensada para recrutadores e empresas
 
 ---
 
-### 🔹 Conversor-de-XML (Desktop)
+### 🔹 [Marketplace Margin Simulator](https://github.com/chrisbenini/marketplace-margin-simulator)
 
-Transformação de XML fiscal em base estruturada para análise em Excel.
+Ferramenta para análise estratégica de margem em marketplaces.
 
-👉 https://github.com/chrisbenini/Conversor-de-XML
+Permite simular rentabilidade considerando custos operacionais, taxas de plataforma e logística, auxiliando decisões de precificação.
+
+**Destaques:**
+- Consolidação automática de custos
+- Simulação de margem por canal de venda
+- Análise de rentabilidade por produto
+- Apoio à tomada de decisão comercial
 
 ---
 
-### 🔹 tiny-extractor
+### 🔹 [Conversor-de-XML (Desktop)](https://github.com/chrisbenini/Conversor-de-XML)
 
-Extração automatizada de dados via API para geração de base analítica.
+Aplicação desktop voltada para transformar XML fiscal em uma base estruturada para análise em Excel.
 
-👉 https://github.com/chrisbenini/tiny-extractor
+**Destaques:**
+- Leitura e tratamento de XML
+- Estruturação de dados para uso operacional
+- Geração de base pronta para análise
+
+---
+
+### 🔹 [tiny-extractor](https://github.com/chrisbenini/tiny-extractor)
+
+Ferramenta de extração automatizada de dados via API para geração de base analítica.
+
+**Destaques:**
+- Coleta automatizada de dados
+- Integração com fluxo analítico
+- Estruturação de dados para relatórios e análises
 
 ---
 
 ## 📬 Contato
 
-- 📧 chrisbenini13@gmail.com 
-- 💼 https://www.linkedin.com/in/christopher-benini-081b7833a/
+<p align="left">
+  <a href="mailto:chrisbenini13@gmail.com">
+    <img src="./assets/icones/email_cor_512.png" width="22" alt="E-mail">
+  </a>
+  <b>E-mail:</b> chrisbenini13@gmail.com
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/" target="_blank">
+    <img src="./assets/icones/Linkedin_sc_512.png" width="22" alt="LinkedIn">
+  </a>
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/">Christopher Benini</a>
+</p>
+
+<p align="left">
+  <a href="https://wa.me/SEUNUMERO" target="_blank">
+    <img src="./assets/icones/Zap_sc_512.png" width="22" alt="WhatsApp">
+  </a>
+  <b>WhatsApp:</b> seu número aqui
+</p>
+
+<p align="left">
+  <a href="https://instagram.com/SEUUSUARIO" target="_blank">
+    <img src="./assets/icones/Insta_sc_512.png" width="22" alt="Instagram">
+  </a>
+  <b>Instagram:</b> @seuusuario
+</p>
 
 ---
 
-## 🌍 Short English summary
+## 🌍 Short English Summary
 
-> Data-focused developer working with automation, SQL integrations and data transformation for retail environments.  
-> I build tools that turn operational data into structured and actionable information.
+> Data-focused developer working with automation, SQL integrations and data transformation for retail operations.  
+> I build tools that transform operational data into structured and actionable insights.
