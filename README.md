@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Dados+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;Python+%7C+SQL+Server+%7C+Excel+%7C+C%23+%7C+.NET;Solu%C3%A7%C3%B5es+que+transformam+dados+operacionais+em+decis%C3%A3o;Retail+Data+%7C+Internal+Tools+%7C+Productivity+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Dados+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;Python+%7C+SQL+Server+%7C+Excel+%7C+C%23+%7C+.NET;Solu%C3%A7%C3%B5es+que+transformam+dados+operacionais+em+decis%C3%A3o;Retail+Data+%7C+Internal+Tools+%7C+Productivity+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
