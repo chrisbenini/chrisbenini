@@ -59,14 +59,14 @@ Minha base em desenvolvimento me permite transformar demandas operacionais em **
 <p align="left">
   <img src="./assets/icones/Python_cor_512.png" width="42" alt="Python">
   <img src="./assets/icones/Sql_cor_512.png" width="42" alt="SQL Server">
-  <img src="./assets/icones/excel_cor_512.png" width="42" alt="Excel">
+  <img src="./assets/icones/excel_cor_512.png" width="40" alt="Excel">
   <img src="./assets/icones/C_cor_512.png" width="42" alt="C#">
   <img src="./assets/icones/Net_cor_512.png" width="42" alt=".NET">
   <img src="./assets/icones/Avalonia_cor_512.png" width="42" alt="Avalonia UI">
   <img src="./assets/icones/Hc_cor_512.png" width="42" alt="HTML/CSS">
   <img src="./assets/icones/Js_cor_512.png" width="42" alt="JavaScript">
-  <img src="./assets/icones/Git_sc_512.png" width="42" alt="Git">
-  <img src="./assets/icones/Dev_cor_512.png" width="42" alt="GitHub">
+  <img src="./assets/icones/Git_cor_512.png" width="42" alt="Git">
+  <img src="./assets/icones/Github_cor_512.png" width="42" alt="GitHub">
 </p>
 
 ### Data & Automation
@@ -136,19 +136,19 @@ Ferramenta de extração automatizada de dados via API para geração de base an
 
 <p align="left">
   <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/" target="_blank">
-    <img src="./assets/icones/Linkedin_sc_512.png" width="30" alt="LinkedIn">
+    <img src="./assets/icones/Linkedin_cor_512.png" width="42" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/chrisbenini" target="_blank">
-    <img src="./assets/icones/Insta_sc_512.png" width="30" alt="Instagram">
+    <img src="./assets/icones/Insta_cor_512.png" width="30" alt="Instagram">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:chrisbenini13@gmail.com">
-    <img src="./assets/icones/email_cor_512.png" width="30" alt="E-mail">
+    <img src="./assets/icones/Email_cor_512.png" width="30" alt="E-mail">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/17981478331" target="_blank">
-    <img src="./assets/icones/Zap_sc_512.png" width="30" alt="WhatsApp">
+    <img src="./assets/icones/Whatsap_cor_512.png" width="30" alt="WhatsApp">
   </a>
 </p>
 
