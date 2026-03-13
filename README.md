@@ -58,7 +58,7 @@ Minha base em desenvolvimento me permite transformar demandas operacionais em **
 
 <p align="left">
   <img src="./assets/icones/Python_cor_512.png" width="42" alt="Python">
-  <img src="./assets/icones/Sql_cor_512.png" width="42" alt="SQL Server">
+  <img src="./assets/icones/sqlserver_cor_512.png" width="42" alt="SQL Server">
   <img src="./assets/icones/excel_cor_512.png" width="38" alt="Excel">
   <img src="./assets/icones/C_cor_512.png" width="42" alt="C#">
   <img src="./assets/icones/Net_cor_512.png" width="42" alt=".NET">
