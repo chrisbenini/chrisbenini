@@ -135,33 +135,26 @@ Ferramenta de extração automatizada de dados via API para geração de base an
 ## 📬 Contato
 
 <p align="left">
-  <a href="mailto:chrisbenini13@gmail.com">
-    <img src="./assets/icones/email_cor_512.png" width="22" alt="E-mail">
-  </a>
-  <b>E-mail:</b> chrisbenini13@gmail.com
-</p>
-
-<p align="left">
   <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/" target="_blank">
-    <img src="./assets/icones/Linkedin_sc_512.png" width="22" alt="LinkedIn">
+    <img src="./assets/icones/Linkedin_sc_512.png" width="28" alt="LinkedIn">
   </a>
-  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/">Christopher Benini</a>
-</p>
-
-<p align="left">
-  <a href="https://wa.me/17981478331" target="_blank">
-    <img src="./assets/icones/Zap_sc_512.png" width="22" alt="WhatsApp">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/chrisbenini" target="_blank">
+    <img src="./assets/icones/Dev_cor_512.png" width="28" alt="GitHub">
   </a>
-  <b>WhatsApp:</b> 17981478331
-</p>
-
-<p align="left">
-  <a href="https://instagram.com/chrisbenini" target="_blank">
-    <img src="./assets/icones/Insta_sc_512.png" width="22" alt="Instagram">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/SEUUSUARIO" target="_blank">
+    <img src="./assets/icones/Insta_sc_512.png" width="28" alt="Instagram">
   </a>
-  <b>Instagram:</b> @chrisbenini
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:chrisbenini13@gmail.com">
+    <img src="./assets/icones/email_cor_512.png" width="28" alt="E-mail">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/SEUNUMERO" target="_blank">
+    <img src="./assets/icones/Zap_sc_512.png" width="28" alt="WhatsApp">
+  </a>
 </p>
-
 ---
 
 ## 🌍 Short English Summary
