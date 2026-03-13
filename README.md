@@ -53,39 +53,15 @@ Minha base em desenvolvimento me permite transformar processos manuais em fluxos
 ## 🧰 Stack
 
 <p>
-<img src="./assets/icones/Python_cor_512.png" width="32" style="vertical-align: middle; margin-right:8px;"> <b>Python</b>
-</p>
-
-<p>
-<img src="./assets/icones/Sql_cor_512.png" width="32" style="vertical-align: middle; margin-right:8px;"> <b>SQL Server</b>
-</p>
-
-<p>
-<img src="./assets/icones/excel_cor_512.png" width="32" style="vertical-align: middle; margin-right:8px;"> <b>Excel</b>
-</p>
-
-<p>
-<img src="./assets/icones/C_cor_512.png" width="32" style="vertical-align: middle; margin-right:8px;"> <b>C# / .NET</b>
-</p>
-
-<p>
-<img src="./assets/icones/Avalonia_cor_512.png" width="32" style="vertical-align: middle; margin-right:8px;"> <b>Avalonia UI</b>
-</p>
-
-<p>
-<img src="./assets/icones/Hc_cor_512.png" width="32" style="vertical-align: middle; margin-right:8px;"> <b>HTML / CSS</b>
-</p>
-
-<p>
-<img src="./assets/icones/Js_cor_512.png" width="32" style="vertical-align: middle; margin-right:8px;"> <b>JavaScript</b>
-</p>
-
-<p>
-<img src="./assets/icones/Git_sc_512.png" width="32" style="vertical-align: middle; margin-right:8px;"> <b>Git</b>
-</p>
-
-<p>
-<img src="./assets/icones/Dev_cor_512.png" width="32" style="vertical-align: middle; margin-right:8px;"> <b>GitHub</b>
+<img src="./assets/icones/Python_cor_512.png" width="40">
+<img src="./assets/icones/Sql_cor_512.png" width="40">
+<img src="./assets/icones/excel_cor_512.png" width="40">
+<img src="./assets/icones/C_cor_512.png" width="40">
+<img src="./assets/icones/Avalonia_cor_512.png" width="40">
+<img src="./assets/icones/Hc_cor_512.png" width="40">
+<img src="./assets/icones/Js_cor_512.png" width="40">
+<img src="./assets/icones/Git_sc_512.png" width="40">
+<img src="./assets/icones/Dev_cor_512.png" width="40">
 </p>
 
 ---
