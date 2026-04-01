@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://portfolio-chrisbenini.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visualizar-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visualizar-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/chrisbenini?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rios-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,113 +24,91 @@
 
 ---
 
-## `> quick_profile`
+## `> about_me`
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Focus-Automa%C3%A7%C3%A3o_de_Processos-0F172A?style=for-the-badge&logo=python&logoColor=white" />
-      <br><br>
-      Ferramentas que reduzem tarefas manuais e aumentam produtividade operacional.
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Focus-Dados_%26_SQL-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-      <br><br>
-      Estruturação, transformação e consulta de dados para apoio à decisão.
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Focus-Internal_Tools-0F172A?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-      <br><br>
-      Soluções internas voltadas para varejo, operações e integrações.
-    </td>
-  </tr>
-</table>
+Atuo no desenvolvimento de soluções voltadas para **dados, automação de processos e integrações**, com foco em transformar rotinas operacionais em estruturas mais organizadas, confiáveis e orientadas à decisão.
+
+Meu trabalho envolve conectar **processos, planilhas, banco de dados, APIs e ferramentas internas**, sempre buscando reduzir tarefas manuais, aumentar produtividade e melhorar a visibilidade das informações.
+
+Tenho uma base técnica que combina **dados + desenvolvimento + operação**, o que me permite sair da necessidade do dia a dia e entregar soluções práticas, reutilizáveis e escaláveis.
 
 ---
 
-## `> featured_highlight`
+## `> how_i_work`
 
-<table align="center">
-  <tr>
-    <td width="100%" align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python_Automation-0F172A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_%26_Data-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs_%26_Integrations-1D4ED8?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internal_Tools-2563EB?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
+
+- Estruturação e transformação de dados para apoio à operação  
+- Automação de tarefas manuais e rotinas internas  
+- Integração entre sistemas, APIs, planilhas e banco de dados  
+- Ferramentas voltadas para varejo, precificação e produtividade  
+
+---
+
+## `> featured_portfolio`
 
 ### 🌐 [Portfolio Profissional](https://portfolio-chrisbenini.netlify.app/)
 
-Portfólio criado para apresentar meus projetos, stack e evolução profissional de forma visual, organizada e objetiva.
+Meu principal ponto de apresentação profissional, desenvolvido para reunir projetos, stack, posicionamento e evolução de forma visual, clara e objetiva.
 
-<p>
+<p align="center">
   <a href="https://portfolio-chrisbenini.netlify.app/">
     <img src="https://img.shields.io/badge/Acessar_Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/chrisbenini/Portfolio">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rio-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Reposit%C3%B3rio_do_Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-**Destaques**
-- Apresentação profissional e visual
-- Organização clara dos projetos
-- Estrutura pensada para recrutadores e empresas
-
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Profissional-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Projetos_em_Destaque-1D4ED8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack_Organizada-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco_em_Recrutadores-06B6D4?style=flat-square" />
+</p>
 
 ---
 
 ## `> selected_projects`
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
 ### 📊 [Marketplace Margin Simulator](https://github.com/chrisbenini/marketplace-margin-simulator)
-
-Simulador para análise de margem, custos e apoio à precificação em marketplaces.
+Ferramenta para análise de margem, consolidação de custos e apoio à precificação em marketplaces.
 
 <a href="https://github.com/chrisbenini/marketplace-margin-simulator">
   <img src="https://img.shields.io/badge/Abrir_Projeto-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-  </td>
-  <td width="50%" valign="top">
+<br>
 
 ### 🗃️ [Ecommerce SQL Database](https://github.com/chrisbenini/Ecommerce-sql-database)
-
-Projeto relacional voltado para modelagem, estruturação e consultas SQL em cenário de e-commerce.
+Projeto relacional voltado para modelagem de banco de dados, relacionamentos e consultas SQL em cenário de e-commerce.
 
 <a href="https://github.com/chrisbenini/Ecommerce-sql-database">
   <img src="https://img.shields.io/badge/Abrir_Projeto-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-  </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
+<br>
 
 ### 🔄 [tiny-extractor](https://github.com/chrisbenini/tiny-extractor)
-
-Ferramenta de extração automatizada via API para gerar base analítica e apoiar relatórios.
+Ferramenta de extração automatizada via API para gerar base analítica e apoiar relatórios e análises.
 
 <a href="https://github.com/chrisbenini/tiny-extractor">
   <img src="https://img.shields.io/badge/Abrir_Projeto-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-  </td>
-  <td width="50%" valign="top">
+<br>
 
 ### 💻 [Portfolio Repository](https://github.com/chrisbenini/Portfolio)
-
-Código-fonte do meu portfólio web com foco em apresentação profissional e identidade visual.
+Código-fonte do meu portfólio web, com foco em identidade visual, organização e apresentação profissional.
 
 <a href="https://github.com/chrisbenini/Portfolio">
   <img src="https://img.shields.io/badge/Abrir_Projeto-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-  </td>
-  </tr>
-</table>
 
 ---
 
@@ -164,9 +142,12 @@ Código-fonte do meu portfólio web com foco em apresentação profissional e id
 ## `> github_analytics`
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/chrisbenini?style=for-the-badge&label=Followers&color=06B6D4&labelColor=0F172A" />
-  <img src="https://img.shields.io/github/stars/chrisbenini?style=for-the-badge&label=Stars&color=38BDF8&labelColor=0F172A" />
-  <img src="https://img.shields.io/github/last-commit/chrisbenini/Portfolio?style=for-the-badge&label=Last%20Update&color=2563EB&labelColor=0F172A" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisbenini&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chrisbenini&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrisbenini&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -175,12 +156,13 @@ Código-fonte do meu portfólio web com foco em apresentação profissional e id
 
 ---
 
-## `> current_direction`
+## `> current_focus`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudando-AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Foco-Python_Automation-0F172A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foco-SQL_Integration-0F172A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-SQL_Integration-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-Internal_Tools-1D4ED8?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Estudando-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
