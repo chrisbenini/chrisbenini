@@ -141,13 +141,16 @@ Código-fonte do meu portfólio web, com foco em identidade visual, organizaçã
 
 ## `> github_analytics`
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisbenini&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chrisbenini&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrisbenini&theme=tokyonight" />
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrisbenini&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrisbenini&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
 </p>
 
 <p align="center">
