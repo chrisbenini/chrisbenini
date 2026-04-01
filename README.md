@@ -3,11 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Dados+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;Python+%7C+SQL+Server+%7C+Excel+%7C+C%23+%7C+.NET;Solu%C3%A7%C3%B5es+que+transformam+processos+em+resultado;Retail+Data+%7C+Internal+Tools+%7C+Productivity+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Dados+%7C+Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es;Python+%7C+SQL+Server+%7C+Excel+%7C+C%23+%7C+.NET;Solu%C3%A7%C3%B5es+que+transformam+processos+em+resultado;Retail+Data+%7C+Internal+Tools+%7C+Productivity+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Desenvolvedor focado em <b>Dados, Automação e Integrações</b>, criando soluções que transformam processos operacionais em fluxos mais <b>rápidos, confiáveis e escaláveis</b>.
+  <b>Dados</b> &nbsp;|&nbsp; <b>Automação</b> &nbsp;|&nbsp; <b>Integrações</b>
+</p>
+
+<p align="center">
+  Desenvolvedor focado em <b>Dados, Automação e Integrações</b>, criando soluções que transformam processos operacionais em fluxos mais
+  <b>rápidos, confiáveis e escaláveis</b>.
 </p>
 
 <p align="center">
@@ -18,7 +23,7 @@
     <img src="https://img.shields.io/badge/Reposit%C3%B3rios-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/christopher-benini-081b7833a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -40,13 +45,13 @@ Tenho uma base técnica que combina **dados + desenvolvimento + operação**, o 
   <img src="https://img.shields.io/badge/Python_Automation-0F172A?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_%26_Data-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/APIs_%26_Integrations-1D4ED8?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Internal_Tools-2563EB?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internal_Tools-0891B2?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </p>
 
-- Estruturação e transformação de dados para apoio à operação  
-- Automação de tarefas manuais e rotinas internas  
-- Integração entre sistemas, APIs, planilhas e banco de dados  
-- Ferramentas voltadas para varejo, precificação e produtividade  
+- Estruturação e transformação de dados para apoio à operação
+- Automação de tarefas manuais e rotinas internas
+- Integração entre sistemas, APIs, planilhas e banco de dados
+- Ferramentas voltadas para varejo, precificação e produtividade
 
 ---
 
@@ -54,14 +59,11 @@ Tenho uma base técnica que combina **dados + desenvolvimento + operação**, o 
 
 ### 🌐 [Portfolio Profissional](https://portfolio-chrisbenini.netlify.app/)
 
-Meu principal ponto de apresentação profissional, desenvolvido para reunir projetos, stack, posicionamento e evolução de forma visual, clara e objetiva.
+Meu principal ponto de apresentação profissional, reunindo projetos, stack, posicionamento e evolução de forma visual, clara e objetiva.
 
 <p align="center">
   <a href="https://portfolio-chrisbenini.netlify.app/">
     <img src="https://img.shields.io/badge/Acessar_Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/chrisbenini/Portfolio">
-    <img src="https://img.shields.io/badge/Reposit%C3%B3rio_do_Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -69,7 +71,7 @@ Meu principal ponto de apresentação profissional, desenvolvido para reunir pro
   <img src="https://img.shields.io/badge/Visual_Profissional-0F172A?style=flat-square" />
   <img src="https://img.shields.io/badge/Projetos_em_Destaque-1D4ED8?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack_Organizada-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Foco_em_Recrutadores-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco_em_Recrutadores-38BDF8?style=flat-square" />
 </p>
 
 ---
@@ -80,6 +82,15 @@ Meu principal ponto de apresentação profissional, desenvolvido para reunir pro
 Ferramenta para análise de margem, consolidação de custos e apoio à precificação em marketplaces.
 
 <a href="https://github.com/chrisbenini/marketplace-margin-simulator">
+  <img src="https://img.shields.io/badge/Abrir_Projeto-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br>
+
+### 📈 [Dashboard Desempenho Financeiro](https://github.com/chrisbenini/dashboard-desempenho-financeiro)
+Dashboard interativo em Power BI com foco em desempenho comercial, indicadores estratégicos e apresentação visual profissional.
+
+<a href="https://github.com/chrisbenini/dashboard-desempenho-financeiro">
   <img src="https://img.shields.io/badge/Abrir_Projeto-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -98,15 +109,6 @@ Projeto relacional voltado para modelagem de banco de dados, relacionamentos e c
 Ferramenta de extração automatizada via API para gerar base analítica e apoiar relatórios e análises.
 
 <a href="https://github.com/chrisbenini/tiny-extractor">
-  <img src="https://img.shields.io/badge/Abrir_Projeto-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br>
-
-### 💻 [Portfolio Repository](https://github.com/chrisbenini/Portfolio)
-Código-fonte do meu portfólio web, com foco em identidade visual, organização e apresentação profissional.
-
-<a href="https://github.com/chrisbenini/Portfolio">
   <img src="https://img.shields.io/badge/Abrir_Projeto-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -146,14 +148,13 @@ Código-fonte do meu portfólio web, com foco em identidade visual, organizaçã
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chrisbenini&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrisbenini&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chrisbenini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbenini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&langs_count=6" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisbenini&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
 
 ---
 
