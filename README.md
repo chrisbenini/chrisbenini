@@ -143,17 +143,23 @@ Ferramenta de extração automatizada via API para gerar base analítica e apoia
 
 ## `> github_analytics`
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisbenini&theme=tokyonight" />
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrisbenini&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=06B6D4&ring_color=38BDF8"
+    width="420"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrisbenini&layout=compact&locale=pt-br&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1"
+    width="390"
+  />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chrisbenini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisbenini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisbenini&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chrisbenini&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=CBD5E1&title_color=38BDF8&line=38BDF8&point=06B6D4&area=true&area_color=0F3D5E"
+    width="100%"
+  />
 </p>
 
 ---
